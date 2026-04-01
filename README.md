@@ -1,4 +1,4 @@
-# KR Law Index for AI
+# korea law index light for AI
 
 ![Version](https://img.shields.io/badge/Version-6-blue) ![Type](https://img.shields.io/badge/Type-LLM_Knowledge_Index-green) ![Status](https://img.shields.io/badge/Status-All_Law_Index-orange)
 
