@@ -33,5 +33,3 @@
 - 실제 법률 적용 시에는 반드시 공식 법령 정보를 통해 최신 개정 상태와 시행 여부를 재확인해야 합니다.
 - 본 자료는 전문적인 법률 자문을 대체할 수 없습니다.
 
----
-*Developed for efficient law index routing in LLM environments.*
